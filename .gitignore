@@ -1,0 +1,19 @@
+# Build directories
+target/
+build/
+
+# IDE settings
+.idea/
+*.iml
+
+# Mac OS
+.DS_Store
+
+# Environment files
+.env
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
